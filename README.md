@@ -38,11 +38,13 @@ The big data pipeline includes the process of getting the data file from the Yel
 1. HDFS
 2. MongoDB
 \
+\
 **Note:** Refer this [repository](https://github.com/HwaiTengTeoh/Yelp-MongoDB-HDFS-PySpark/tree/main/Data%20Storage)
 
 ### Yelp Data Access and Querying
 1. Access from HDFS or MongoDB to PySpark
 2. Perform Querying on Yelp Data
+\
 \
 **Note:** Refer this [repository](https://github.com/HwaiTengTeoh/Yelp-MongoDB-HDFS-PySpark/tree/main/Data%20Access)
 
