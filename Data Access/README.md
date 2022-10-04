@@ -5,11 +5,11 @@ At this phase, PySpark is used to access Yelp Data. PySpark does not offer a sol
 Furthermore, SparkSQL introduces DataFrames, which enable the application to standard SQL queries on structured and semi-structured data. Aside from accessing data in HDFS, PySpark can also access data from any Hadoop data source and MongoDB using connectors. These are why PySpark is the data access tool for Yelp Data. It works with in-memory processors, allowing further data exploration with visualization and developing models using MLib. 
 
 ## Access Yelp Data from HDFS
-![](<!Image/Access from HDFS.png>)
+![](<!Image/Access_from_HDFS.png>)
 
 
 ## Access Yelp Data from MongoDB
-![](<!Image/Access-from-MongoDB.png>)
+![](<!Image/Access_from_MongoDB.png>)
 
 ## Querying on Yelp Data
 
@@ -18,12 +18,12 @@ Quick insights can be extracted from Yelp data by querying for the retail sector
 ### Example: Spatial location
 Some quick queries are performed for clothing retailers, and the spatial map for the clothing retail shop is shown below. The process can be replicated for other retail businesses, such as drugstores. Since a drugstore is a retail store where medicines are sold, it is essential to have one drugstore in each neighborhood.
 
-![](<!Image/Example Spatial Map.png>)
+![](<!Image/Example_Spatial_Map.png>)
 
 ### Example: Text Reviews in WordCloud
 The marketing team can analyze the reviews aggregated on the Yelp site to understand the strength and limitations of their competitors and to gauge customers' needs and overall retail experience.
 
-![](<!Image/Example WordCloud.png>)
+![](<!Image/Example_WordCloud.png>)
 
 ### Example: Closure of business
 Following that, the retailers can explore the number of closed retail businesses in a specific location. Useful information is extracted from this analysis, especially for those retailers who want to open new retail businesses that can avoid the area with the maximum number of closed retail businesses. 
