@@ -19,11 +19,11 @@ Since Yelp includes almost all local business data and the reviews associated wi
 
 ## Data Sources
 Yelp has documented the details on its [site](https://www.yelp.com/dataset/documentation/main). The details of the JSON files are as follows: 
--	business.json, which contains data about the local business and information related to the business, such as location, attributes, categories, business type, price range, and unique features associated with the business. 
--	user.json contains data about the user, such as the user's friend mapping and metadata.
--	review.json contains open-ended reviews amassed from customers logged by user_id for the business listings by their unique business_id.
--	tips.json, which contains tips written by the customer which are shorter than reviews, providing quick and brief suggestions.
--	checkin.json, which contains the record of check-ins for the business listings.
+-	*business.json*, which contains data about the local business and information related to the business, such as location, attributes, categories, business type, price range, and unique features associated with the business. 
+-	*user.json* contains data about the user, such as the user's friend mapping and metadata.
+-	*review.json* contains open-ended reviews amassed from customers logged by user_id for the business listings by their unique business_id.
+-	*tips.json*, which contains tips written by the customer which are shorter than reviews, providing quick and brief suggestions.
+-	*checkin.json*, which contains the record of check-ins for the business listings.
 
 ## Big Data Pipeline for Yelp Data
 The big data pipeline includes the process of getting the data file from the Yelp site or Kaggle site and saved in the Local File System, followed by data ingestion into HDFS storage or MongoDB, then access the data using PySpark to perform data transformation and querying using Spark SQL and lastly to the extend the work with advanced analytics using MLib packages and visualization using GraphX. Valuable insights can be extracted from the analysis results, which can help business retailers make decisions. This big data pipeline is designed for business retailers who wish to extract valuable insights from Yelp Data since it is a public online platform with comprehensive coverage of business listings, including various retail businesses. The same big data pipeline can be applied whenever the data is updated. The big data pipeline for Yelp Data is illustrated below, with the details of each process being discussed in following sections. 
