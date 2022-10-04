@@ -32,3 +32,17 @@ The big data pipeline includes the process of getting the data file from the Yel
 
 #### Perform Querying on Yelp Data
 #### Extract more insights using MLib and GraphX
+
+## References
+- Amadeo, K. (2021). The Retail Industry and Its Impact on the Economy. The balance. Retrieved 24/1/2022 from https://www.thebalance.com/what-is-retailing-why-it-s-important-to-the-economy-3305718
+- Ghelber, A. (2020). Why Retailers Can’t Afford to Ignore Customer Feedback. Business 2 Community. Retrieved 24/1/2022 from https://www.business2community.com/consumer-marketing/why-retailers-cant-afford-to-ignore-customer-feedback-02322414
+- Gotter, A. (2019). How Online Reviews can Drive More Retail Sales. https://www.lightspeedhq.com/blog/customer-reviews-for-retailers/
+- Joseph, G. (2016). Walmart Gets Its Worst Yelp Reviews in Black and Latino Neighborhoods. Bloomberg CityLab. Retrieved 24/1/2022 from https://www.bloomberg.com/news/articles/2016-08-30/walmart-get-its-worst-yelp-reviews-in-black-and-latino-neighborhoods-because-of-chronic-understaffing
+- Marrs, M. (2021). The Complete Guide to Yelp Reviews: Getting, Removing & More. WordStream Retrieved 24/1/2022 from https://www.wordstream.com/blog/ws/2013/07/22/yelp-reviews
+- Moghadasi, M. (2021). Review of Yelp DataSet Using Tableau. Medium. Retrieved 24/1/2022 from https://medium.com/swlh/review-of-yelp-dataset-using-tableau-ec5ccdf7cff0
+- Nassirtoussi, A. K., Aghabozorgi, S., Wah, T. Y., & Ngo, D. C. L. (2014). Text mining for market prediction: A systematic review. Expert Systems with Applications, 41(16), 7653-7670. 
+- Retail Industry Sectors: Types of Retail. (n.d).  Technofunc. Retrieved 24/1/2022 from https://www.technofunc.com/index.php/domain-knowledge/retail-industry/item/retail-industry-sectors-types-of-retail
+- Ting, P.-J. L., Chen, S.-L., Chen, H., & Fang, W.-C. (2017). Using big data and text analytics to understand how customer experiences posted on yelp. com impact the hospitality industry. Contemporary Management Research, 13(2). 
+- Van Dam, A. (2019). Trump’s vaping crackdown could help Juul by ending the decade’s biggest small-business success story. Washington Post. Retrieved 24/1/2022 from https://www.washingtonpost.com/business/2019/09/23/trumps-vaping-crackdown-could-help-juul-by-ending-decades-biggest-small-business-success-story/
+
+
