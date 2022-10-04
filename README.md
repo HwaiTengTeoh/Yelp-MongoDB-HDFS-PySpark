@@ -35,14 +35,13 @@ The big data pipeline includes the process of getting the data file from the Yel
 ## Process Flow of Big Data Management for Yelp Data
 
 ### Yelp Data Storage
-#### HDFS
-#### MongoDB
+1. HDFS
+2. MongoDB
 
 ### Yelp Data Access
-#### Access from HDFS or MongoDB to PySpark
-
-#### Perform Querying on Yelp Data
-#### Extract more insights using MLib and GraphX
+1. Access from HDFS or MongoDB to PySpark
+2. Perform Querying on Yelp Data
+3. Extract more insights using MLib and GraphX
 
 ## References
 - Amadeo, K. (2021). The Retail Industry and Its Impact on the Economy. The balance. Retrieved 24/1/2022 from https://www.thebalance.com/what-is-retailing-why-it-s-important-to-the-economy-3305718
