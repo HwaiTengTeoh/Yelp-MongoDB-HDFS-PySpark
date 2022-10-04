@@ -6,7 +6,7 @@ Furthermore, SparkSQL introduces DataFrames, which enable the application to sta
 
 ## Access Yelp Data from HDFS
 Snippet of code:
-![](<HwaiTengTeoh/Yelp-MongoDB-HDFS-PySpark/!Image/Access_from_HDFS.png>)
+![](</!Image/Access_from_HDFS.png>)
 
 ## Access Yelp Data from MongoDB
 Snippet of code:
