@@ -19,7 +19,7 @@ Yelp has documented the details on its [site](https://www.yelp.com/dataset/docum
 ## Big Data Pipeline for Yelp Data
 The big data pipeline includes the process of getting the data file from the Yelp site or Kaggle site and saved in the Local File System, followed by data ingestion into HDFS storage or MongoDB, then access the data using PySpark to perform data transformation and querying using Spark SQL and lastly to the extend the work with advanced analytics using MLib packages and visualization using GraphX. Valuable insights can be extracted from the analysis results, which can help business retailers make decisions. This big data pipeline is designed for business retailers who wish to extract valuable insights from Yelp Data since it is a public online platform with comprehensive coverage of business listings, including various retail businesses. The same big data pipeline can be applied whenever the data is updated. The big data pipeline for Yelp Data is illustrated below, with the details of each process being discussed in following sections. 
 
-![](<!Image/Pipeline.PNG>)
+![](<!Image/Pipeline.png>)
 
 ## Process Flow of Big Data Management for Yelp Data
 
