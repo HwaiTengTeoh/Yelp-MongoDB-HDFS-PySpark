@@ -40,8 +40,13 @@ The big data pipeline includes the process of getting the data file from the Yel
 
 ### Yelp Data Access
 1. Access from HDFS or MongoDB to PySpark
-2. Perform Querying on Yelp Data
-3. Extract more insights using MLib and GraphX
+
+### Yelp Data Querying
+1. Perform Querying on Yelp Data
+
+### Yelp Data Analytics (No Demonstration)
+1. MLib
+2. GraphX
 
 ## References
 - Amadeo, K. (2021). The Retail Industry and Its Impact on the Economy. The balance. Retrieved 24/1/2022 from https://www.thebalance.com/what-is-retailing-why-it-s-important-to-the-economy-3305718
