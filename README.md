@@ -15,3 +15,15 @@ Yelp has documented the details on its [site](https://www.yelp.com/dataset/docum
 -	review.json contains open-ended reviews amassed from customers logged by user_id for the business listings by their unique business_id.
 -	tips.json, which contains tips written by the customer which are shorter than reviews, providing quick and brief suggestions.
 -	checkin.json, which contains the record of check-ins for the business listings.
+
+## Process Flow of Big Data Management for Yelp Data
+
+### Yelp Data Storage
+#### HDFS
+#### MongoDB
+
+### Yelp Data Access
+#### Access from HDFS or MongoDB to PySpark
+
+#### Perform Querying on Yelp Data
+#### Extract more insights using MLib and GraphX
