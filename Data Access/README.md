@@ -5,11 +5,11 @@ At this phase, PySpark is used to access Yelp Data. PySpark does not offer a sol
 Furthermore, SparkSQL introduces DataFrames, which enable the application to standard SQL queries on structured and semi-structured data. Aside from accessing data in HDFS, PySpark can also access data from any Hadoop data source and MongoDB using connectors. These are why PySpark is the data access tool for Yelp Data. It works with in-memory processors, allowing further data exploration with visualization and developing models using MLib. 
 
 ## Access Yelp Data from HDFS
-Snippet of code: \
+
 ![](</!Image/Access_from_HDFS.png>)
 
 ## Access Yelp Data from MongoDB
-Snippet of code: \
+
 ![](</!Image/Access_from_MongoDB.png>)
 
 ## Querying on Yelp Data
