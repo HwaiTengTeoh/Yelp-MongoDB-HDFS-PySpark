@@ -48,6 +48,9 @@ The big data pipeline includes the process of getting the data file from the Yel
 1. MLib
 2. GraphX
 
+## Conclusions
+In this case study, it can be concluded that using MongoDB, HDFS and PySpark enhanced the exploratory possibilities and analytical capability to store and manage Yelp Data for gaining essential insights into the retail sector. 
+
 ## References
 - Amadeo, K. (2021). The Retail Industry and Its Impact on the Economy. The balance. Retrieved 24/1/2022 from https://www.thebalance.com/what-is-retailing-why-it-s-important-to-the-economy-3305718
 - Ghelber, A. (2020). Why Retailers Can’t Afford to Ignore Customer Feedback. Business 2 Community. Retrieved 24/1/2022 from https://www.business2community.com/consumer-marketing/why-retailers-cant-afford-to-ignore-customer-feedback-02322414
