@@ -12,7 +12,7 @@ Furthermore, SparkSQL introduces DataFrames, which enable the application to sta
 
 ![](</!Image/Access_from_MongoDB.png>)
 
-## Querying on Yelp Data
+# Yelp Data Querying
 
 Quick insights can be extracted from Yelp data by querying for the retail sector. Let's say a foreign retailer is running a business to sell his clothing brand and wishes to survey the market of women's clothing in Boston. The retailer can use Yelp Data by performing queries using SparkSQL on the business data for listings under the category of woman's clothing. The company's marketing and business strategy team can employ data analysts or data scientists to explore the data to help the clothing retail company stakeholders make business decisions. 
 
