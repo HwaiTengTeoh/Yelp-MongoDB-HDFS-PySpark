@@ -5,3 +5,13 @@ Yelp.com is a website operated by an American multinational corporation launched
 The purpose of this repository is to:
 1) Demonstrate storage of Yelp JSON files using MongoDB and HDFS
 2) Demonstrate access of Yelp JSON files from either MongoDB and HDFS to PySpark 
+
+## The usefulness of Yelp Data to the Retail Sector
+
+## Data Sources
+Yelp has documented the details on its [site](https://www.yelp.com/dataset/documentation/main). The details of the JSON files are as follows: 
+-	business.json, which contains data about the local business and information related to the business, such as location, attributes, categories, business type, price range, and unique features associated with the business. 
+-	user.json contains data about the user, such as the user's friend mapping and metadata.
+-	review.json contains open-ended reviews amassed from customers logged by user_id for the business listings by their unique business_id.
+-	tips.json, which contains tips written by the customer which are shorter than reviews, providing quick and brief suggestions.
+-	checkin.json, which contains the record of check-ins for the business listings.
